@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Batuphat Script;
+    src: url(../font/Batuphat\ Script.otf);
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+html{
+    font-size: 62.5%;
+}
+li{
+    text-decoration: none;
+}
+body{
+    background-color: wheat;
+}
+header{
+    background-color: blanchedalmond;
+    padding: 80px;
+}
+
+h1{
+    font-family: Batuphat Script;
+}
+.h1Index{
+    color: burlywood;
+}
+h2{
+    color: yellow;
+}
+.contacto{
+    color: brown;
+    font-size: 1.3em;
+}
+.titulo{
+    color: tan;
+    text-align: center;
+    text-decoration: underline;
+}
+nav ul{
+    list-style-type: none;
+}
+.tituloDer{
+    color: tan;
+    text-align: center;
+}
+.inicioDer{
+    font-size: 20px;
+    padding: 40px;
+}
